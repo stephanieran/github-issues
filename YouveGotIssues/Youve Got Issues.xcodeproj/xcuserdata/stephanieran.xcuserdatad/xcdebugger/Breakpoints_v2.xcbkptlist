@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2FF36E4D-602C-4666-A5D3-A48AE6327177"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Youve Got Issues/OpenIssuesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "OpenIssuesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 30cf128bacbb3d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.table.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 166bac2201e5690e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.table.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 44c00a1326f0a201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.table.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 77d66e1bca4c1d29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.table.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - f0229222cd55389f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.init(style: __C.UITableViewStyle) -&gt; Youve_Got_Issues.OpenIssuesViewController"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 8d14e37f223a90e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Youve_Got_Issues.OpenIssuesViewController"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "B76226BF-2584-403B-8DFF-5F9B8D4E7D80 - 9adb44dfdc3c2db1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youve_Got_Issues.OpenIssuesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Youve_Got_Issues.OpenIssuesViewController&gt;"
+                  moduleName = "Youve Got Issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanieran/iOSAppDev2023/mpcs51030-2022-winter-assignment-3-stephanieran/YouveGotIssues/Youve%20Got%20Issues/OpenIssuesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
